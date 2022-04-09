@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 const Services = ({ services }) => {
+    
     return (
         <div className={style.container}>
             <div className={style.info}>
